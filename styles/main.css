@@ -34,7 +34,7 @@ img{
 
 .header{
     height: 660px;
-    background:url(/Hulu/clone/images/header.jpg) no-repeat center center / cover;
+    background:url(/Hulu/images/header.jpg) no-repeat center center / cover;
 }
 
 #navhead{
@@ -169,22 +169,22 @@ h4{
 }
 
 .grid1{
-    background-image: url(/Hulu/clone/images/cover-1.jpg);
+    background-image: url(/Hulu/images/cover-1.jpg);
     padding: 25px;
 }
 
 .grid2{
-    background-image: url(/Hulu/clone/images/cover-2.jpg);
+    background-image: url(/Hulu/images/cover-2.jpg);
     padding: 25px;
 }
 
 .grid3{
-    background-image: url(/Hulu/clone/images/cover-3.jpg);
+    background-image: url(/Hulu/images/cover-3.jpg);
     padding: 25px;
 }
 
 .grid4{
-    background-image: url(/Hulu/clone/images/cover-4.jpg);
+    background-image: url(/Hulu/images/cover-4.jpg);
     padding: 25px;
 }
 
@@ -204,7 +204,7 @@ h4{
 
 .section3{
     height: 808px;
-    background: url(/Hulu/clone/images/live-sports.jpg) no-repeat center center;
+    background: url(/Hulu/images/live-sports.jpg) no-repeat center center;
     background-size: contain;
 }
 
@@ -267,7 +267,7 @@ h4{
 }
 
 .sportslogos > div{
-    background:url(/Hulu/clone/images/network-logo-bg.png) no-repeat center center/ cover;
+    background:url(/Hulu/images/network-logo-bg.png) no-repeat center center/ cover;
     height: 60px;
     width: 60px;
     display: flex;
